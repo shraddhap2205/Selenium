@@ -6,8 +6,9 @@ public class MyTest {
 		
 		// TODO Auto-generated method stub
 String s="shraddha";
+String s2="shraddha";
 System.out.println(s);
-System.out.println(s);
+System.out.println(s2);
 		
 	}
 
