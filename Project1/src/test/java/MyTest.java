@@ -7,8 +7,11 @@ public class MyTest {
 		// TODO Auto-generated method stub
 String s="shraddha";
 String s2="shraddha";
+System.out.println("shraddha");	
 String s3="shraddha";
+System.out.println("shraddha");	
  s3="shraddha";
+ System.out.println("shraddha");	
 System.out.println(s);
 System.out.println(s2);
 System.out.println(s3);	
