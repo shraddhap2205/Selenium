@@ -8,6 +8,7 @@ public class MyTest {
 String s="shraddha";
 String s2="shraddha";
 String s3="shraddha";
+String s5="swwe";
  s3="shraddha";
 System.out.println(s);
 System.out.println(s2);
