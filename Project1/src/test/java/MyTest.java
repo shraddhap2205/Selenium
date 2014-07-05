@@ -7,6 +7,7 @@ public class MyTest {
 		// TODO Auto-generated method stub
 String s="shraddha";
 System.out.println(s);
+System.out.println(s);
 		
 	}
 
